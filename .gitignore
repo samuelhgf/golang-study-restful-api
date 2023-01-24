@@ -1,2 +1,6 @@
 .idea
 go.sum
+
+app.env
+
+main
